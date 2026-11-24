@@ -1,6 +1,20 @@
 <!-- Neon Synthwave · Original animated SVG artwork, bundled in assets/ -->
 <div align="center"><img src="./assets/neon-hero.svg" alt="Animated Neon Synthwave banner — Douaa EL ARIF" width="100%"/></div>
 
+<table>
+  <tr>
+    <td align="center" width="27%" valign="middle">
+      <img src="./assets/douaa-portrait.webp" alt="Animated portrait of Douaa EL ARIF" width="170" />
+    </td>
+    <td width="73%" valign="middle">
+      <h3>HELLO, WORLD! I'M DOUAA ✦</h3>
+      <p><strong>AI & Software Engineering</strong> · Final-year engineering student at ENSA El Jadida.</p>
+      <p>I turn complex ideas into intelligent, useful, and secure digital experiences — from machine learning to full-stack products.</p>
+      <p>💜 <strong>Open to PFE 2027</strong> · 6-month internship in AI, Data or Software Engineering.</p>
+    </td>
+  </tr>
+</table>
+
 <p align="center"><a href="https://www.linkedin.com/in/douaa-e-71413223b/">LinkedIn</a> &nbsp; ✦ &nbsp; <a href="mailto:elarifdouaa@gmail.com">Email</a> &nbsp; ✦ &nbsp; <a href="https://github.com/douaaelarif12?tab=repositories">Repositories</a></p>
 
 <div align="center"><img src="./assets/neon-terminal.svg" alt="Animated terminal introducing my specializations and internship availability" width="100%"/></div>
