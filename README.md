@@ -23,7 +23,7 @@ I build useful, secure and intelligent applications — from data pipelines, mod
   <tr>
     <td width="33%" valign="top"><b>🎓 EDUCATION</b><p>State Engineering Degree<br/>ENSA El Jadida</p></td>
     <td width="33%" valign="top"><b>✨ WHAT I BUILD</b><p>ML / Deep Learning<br/>GenAI · Data · Software</p></td>
-    <td width="34%" valign="top"><b>💜 OPEN TO WORK</b><p>6-month PFE internship<br/>Jan / Feb 2027</p></td>
+    <td width="34%" valign="top"><b>💜 OPEN TO WORK</b><p>6-month PFE internship<br/>January 2027</p></td>
   </tr>
 </table>
 
@@ -32,31 +32,45 @@ I build useful, secure and intelligent applications — from data pipelines, mod
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-  <h3>✦ 01 — SmartAnalytics AI</h3>
-  <sub><b>SELF-SERVICE ANALYTICS + GENAI</b></sub>
-  <p>Built an end-to-end platform for CSV/XLSX ingestion, dataset profiling, secure DuckDB analytics, interactive dashboards and an AI assistant that runs validated queries on actual data.</p>
-  <p><img src="./assets/logos/python.svg" width="25" height="25" alt="python"/> &nbsp; <img src="./assets/logos/fastapi.svg" width="25" height="25" alt="fastapi"/> &nbsp; <img src="./assets/logos/react.svg" width="25" height="25" alt="react"/> &nbsp; <img src="./assets/logos/postgresql.svg" width="25" height="25" alt="postgresql"/></p>
-</td>
+      <h3><a href="https://github.com/douaaelarif12/smartanalytics-ai">✦ 01 — SmartAnalytics AI</a></h3>
+      <sub><b>SELF-SERVICE ANALYTICS + GENAI</b></sub>
+      <p>Built a secure full-stack analytics platform for CSV/XLSX ingestion, dataset profiling, DuckDB queries, interactive dashboards and validated AI-assisted analysis.</p>
+      <p><img src="./assets/logos/python.svg" width="25" height="25" alt="Python"/> &nbsp; <img src="./assets/logos/fastapi.svg" width="25" height="25" alt="FastAPI"/> &nbsp; <img src="./assets/logos/react.svg" width="25" height="25" alt="React"/> &nbsp; <img src="./assets/logos/postgresql.svg" width="25" height="25" alt="PostgreSQL"/></p>
+    </td>
     <td width="50%" valign="top">
-  <h3>✦ 02 — Spatio-Temporal GNN</h3>
-  <sub><b>GRAPH DEEP LEARNING</b></sub>
-  <p>Predicted hourly Citi Bike station demand by modeling spatial and temporal patterns. Implemented and compared GCN, GAT and GCN-GRU architectures.</p>
-  <p><img src="./assets/logos/python.svg" width="25" height="25" alt="python"/> &nbsp; <img src="./assets/logos/pytorch.svg" width="25" height="25" alt="pytorch"/> &nbsp; <img src="./assets/logos/networkx.svg" width="25" height="25" alt="networkx"/> &nbsp; <img src="./assets/logos/scikitlearn.svg" width="25" height="25" alt="scikitlearn"/></p>
-</td>
+      <h3><a href="https://github.com/douaaelarif12/citibike-gnn-lab-v2">✦ 02 — CitiBike GNN Lab</a></h3>
+      <sub><b>SPATIO-TEMPORAL GRAPH LEARNING</b></sub>
+      <p>Developed a leakage-safe forecasting pipeline and compared persistence baselines with GCN, GAT and GCN–GRU models for hourly station demand.</p>
+      <p><img src="./assets/logos/python.svg" width="25" height="25" alt="Python"/> &nbsp; <img src="./assets/logos/pytorch.svg" width="25" height="25" alt="PyTorch"/> &nbsp; <img src="./assets/logos/networkx.svg" width="25" height="25" alt="NetworkX"/> &nbsp; <img src="./assets/logos/react.svg" width="25" height="25" alt="React"/></p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-  <h3>✦ 03 — ENSAJ AI Assistant</h3>
-  <sub><b>RAG + AGENTIC WORKFLOWS</b></sub>
-  <p>Developed a document question-answering assistant over academic content using retrieval-augmented generation, a local ChromaDB vector store and ReAct-style agent reasoning.</p>
-  <p><img src="./assets/logos/python.svg" width="25" height="25" alt="python"/> &nbsp; <img src="./assets/logos/langchain.svg" width="25" height="25" alt="langchain"/> &nbsp; <img src="./assets/logos/ollama.svg" width="25" height="25" alt="ollama"/></p>
-</td>
+      <h3><a href="https://github.com/douaaelarif12/Industrial-PFD-Analysis">✦ 03 — Industrial PFD Analysis</a></h3>
+      <sub><b>COMPUTER VISION + DOCUMENT INTELLIGENCE</b></sub>
+      <p>Combined YOLO11, PaddleOCR, OpenCV and graph construction to analyze industrial Process Flow Diagrams through a FastAPI and React application.</p>
+      <p><img src="./assets/logos/python.svg" width="25" height="25" alt="Python"/> &nbsp; <img src="./assets/logos/fastapi.svg" width="25" height="25" alt="FastAPI"/> &nbsp; <img src="./assets/logos/react.svg" width="25" height="25" alt="React"/> &nbsp; <img src="./assets/logos/networkx.svg" width="25" height="25" alt="NetworkX"/></p>
+    </td>
     <td width="50%" valign="top">
-  <h3>✦ 04 — SAP RiskControl</h3>
-  <sub><b>SECURITY + ACCESS GOVERNANCE</b></sub>
-  <p>Built a simulation platform for SAP authorizations, separation-of-duties (SoD) conflict detection, remediation tracking and GRC reporting.</p>
-  <p><img src="./assets/logos/python.svg" width="25" height="25" alt="python"/> &nbsp; <img src="./assets/logos/fastapi.svg" width="25" height="25" alt="fastapi"/> &nbsp; <img src="./assets/logos/react.svg" width="25" height="25" alt="react"/> &nbsp; <img src="./assets/logos/postgresql.svg" width="25" height="25" alt="postgresql"/></p>
-</td>
+      <h3><a href="https://github.com/douaaelarif12/5G-TwinAI">✦ 04 — 5G TwinAI</a></h3>
+      <sub><b>INTELLIGENT NETWORK DIGITAL TWIN</b></sub>
+      <p>Simulated a 5G network and integrated congestion prediction, anomaly detection, PPO-based optimization, FastAPI, WebSockets and a React dashboard.</p>
+      <p><img src="./assets/logos/python.svg" width="25" height="25" alt="Python"/> &nbsp; <img src="./assets/logos/pytorch.svg" width="25" height="25" alt="PyTorch"/> &nbsp; <img src="./assets/logos/fastapi.svg" width="25" height="25" alt="FastAPI"/> &nbsp; <img src="./assets/logos/react.svg" width="25" height="25" alt="React"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/douaaelarif12/VoiceScope">✦ 05 — VoiceScope AI</a></h3>
+      <sub><b>SPEECH + AUDIO INTELLIGENCE</b></sub>
+      <p>Built a local classroom-audio analysis platform combining speech detection, multilingual transcription, voice-profile comparison and structured exports.</p>
+      <p><img src="./assets/logos/python.svg" width="25" height="25" alt="Python"/> &nbsp; <img src="./assets/logos/pytorch.svg" width="25" height="25" alt="PyTorch"/> &nbsp; <img src="./assets/logos/fastapi.svg" width="25" height="25" alt="FastAPI"/> &nbsp; <img src="./assets/logos/react.svg" width="25" height="25" alt="React"/></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/douaaelarif12/ENSAJ-AI-Chatbot-RAG-Agentic-AI">✦ 06 — ENSAJ AI Assistant</a></h3>
+      <sub><b>RAG + AGENTIC WORKFLOWS</b></sub>
+      <p>Developed a local document assistant using LangChain, ChromaDB, Ollama and ReAct-style tools for contextual academic question answering.</p>
+      <p><img src="./assets/logos/python.svg" width="25" height="25" alt="Python"/> &nbsp; <img src="./assets/logos/langchain.svg" width="25" height="25" alt="LangChain"/> &nbsp; <img src="./assets/logos/ollama.svg" width="25" height="25" alt="Ollama"/></p>
+    </td>
   </tr>
 </table>
 
@@ -128,7 +142,7 @@ Real technology logos, grouped by specialty.
 
 ## 05 / LET'S CONNECT
 
-I'm looking for a **6-month PFE internship starting January or February 2027** in **AI / ML, Generative AI, Data Engineering or Software Development**. Open to opportunities in Morocco, France and internationally.
+I'm looking for a **6-month PFE internship starting January 2027** in **AI / ML, Generative AI, Data Engineering or Software Development**. Open to opportunities in Morocco, France and internationally.
 
 <div align="center">
   <img src="./assets/neon-footer.svg" width="100%" alt="Let's build something impactful — animated neon banner"/>
